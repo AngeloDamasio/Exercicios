@@ -1,6 +1,6 @@
 import math
 
-print ('              Calculo de area de um quadradp\n\n\n\n')
+print ('              Calculo de area de um quadrado\n\n\n\n')
 
 lado=int(input('Qual o valor do lado do quadrado? '))
 
